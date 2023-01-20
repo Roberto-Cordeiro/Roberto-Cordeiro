@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning FullStack Web Development
+- 🔭 I’m currently working on 20 projects to my portifolio, next i will post all of them 😄
 <!--
 **Roberto-Cordeiro/Roberto-Cordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
